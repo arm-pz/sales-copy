@@ -1,0 +1,14 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "sales-copy",
+  "version": "0.1.0",
+  "description": "Direct-response conversion assets: sales and landing pages, launch and cart-recovery emails, ad variations, VSL and webinar scripts, upsell flows.",
+  "author": {
+    "name": "arm-pz",
+    "url": "https://github.com/arm-pz"
+  },
+  "homepage": "https://github.com/arm-pz/sales-copy",
+  "repository": "https://github.com/arm-pz/sales-copy",
+  "keywords": ["copywriting", "direct-response", "sales-pages", "email-funnels", "ads", "conversion"],
+  "skills": "./skills/"
+}
